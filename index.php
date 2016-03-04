@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>
+		ROYCYTO CHIPANA AIQUIPA
+	</title>
+	<link rel="stylesheet" href="">
+	<link rel="stylesheet" type="text/css" href="estilos.css">
+	
+</head>
+<body>
+		<h2 class="verde"> hola </h2>
+	<h2 class="verde"> a</h2>
+	<h2 class="azul"> b</h2>
+	<h2 class="azul"> c</h2>
+	<h2 class="rojo">hola heruko</h2>
+	<h2 class="rojo">hola heruko</h2>
+	<h2 class="rojo">hola heruko</h2>
+	<h2 class="rojo">hola heruko</h2>
+	<h2 class="rojo">hola heruko</h2>
+	<img class="roy.jpg" alt="hola a todos" width="200">
+	<img class="img" src="ryy.lnk" alt="estilos.css">
+	
+</body>
+</html>
