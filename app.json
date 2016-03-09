@@ -1,0 +1,13 @@
+{
+  "name": "novelas-app",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
